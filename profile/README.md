@@ -30,7 +30,7 @@ We utilize a diverse set of technologies to deliver high-quality products:
 - **Hashan Shalitha**: Co-Founder & Lead Fornt-end Developer
 - **Ruhith Udakara**: Co-Founder & Lead Back-end Developer
 - **Ishara Wanigathunga**: Co-Founder & Lead UI/UX Engineer
-- **Irusha Amali**: Lead Project Manager & Business Analyst
+- **Irusha Rathnayaka**: Lead Project Manager & Business Analyst
 
 ## 📫 Contact Us
 
