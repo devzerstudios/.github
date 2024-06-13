@@ -18,18 +18,18 @@
 
 We utilize a diverse set of technologies to deliver high-quality products:
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
-- **Backend**: Node.js, Python, Ruby on Rails
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Vue.js and Next.js
+- **Backend**: Node.js, Python, Laravel
 - **Game Development**: Unity, Unreal Engine, Godot
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase and Firestore
 - **DevOps**: Docker, Kubernetes, AWS, Azure
 
 ## 👨‍👩‍👧‍👦 Meet the Team
 
-- **John Doe**: Co-Founder & Lead Developer
-- **Jane Smith**: Co-Founder & Creative Director
-- **Alice Johnson**: Game Developer
-- **Bob Brown**: Web Developer
+- **Hashan Shalitha**: Co-Founder & Lead Fornt-end Developer
+- **Ruhith Udakara**: Co-Founder & Lead Back-end Developer
+- **Ishara Wanigathunga**: Co-Founder & Lead UI/UX Engineer
+- **Irusha Amali**: Lead Project Manager & Business Analyst
 
 ## 📫 Contact Us
 
