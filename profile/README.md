@@ -36,7 +36,7 @@ We utilize a diverse set of technologies to deliver high-quality products:
 
 We’d love to hear from you! Here’s how you can reach us:
 
-- **Email**: [contact@devzerstudio.com](mailto:devzerstudio@gmail.com)
+- **Email**: [devzerstudio@gmail.com](mailto:devzerstudio@gmail.com)
 - **Twitter**: [@DevzerStudio](https://twitter.com/devzerstudio)
 - **LinkedIn**: [Devzer Studio](https://www.linkedin.com/company/devzerstudio)
 
