@@ -4,24 +4,40 @@
 
 **Devzer Studio** is a small, dynamic team specializing in website and game development. We are passionate about crafting beautiful, functional, and engaging digital experiences. Whether it's building a sleek, user-friendly website or developing an immersive game, we bring creativity and technical expertise to every project.
 
-## 🌈 Contribution Guidelines
+## 📈 Our Projects
 
-We welcome contributions from the community! Here's how you can get involved:
+### Web Development
+- **Project 1**: [Website Name](link) - A brief description of the project.
+- **Project 2**: [Website Name](link) - A brief description of the project.
 
-1. **Fork the Repository**: Start by forking our repository to your own GitHub account.
-2. **Create a Branch**: Make a new branch for your feature or bug fix.
-3. **Commit Your Changes**: Commit your changes with clear and descriptive messages.
-4. **Submit a Pull Request**: Open a pull request to our main repository. Be sure to describe your changes and the problem they solve.
+### Game Development
+- **Game 1**: [Game Name](link) - A brief description of the game.
+- **Game 2**: [Game Name](link) - A brief description of the game.
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure a positive experience for everyone.
+## 🛠️ Tech Stack
 
-## 👩‍💻 Useful Resources
+We utilize a diverse set of technologies to deliver high-quality products:
 
-- **Documentation**: You can find our detailed docs [here](link-to-your-docs).
-- **Issue Tracker**: Report issues or suggest features using our [Issue Tracker](link-to-issue-tracker).
-- **Community Discussions**: Join our community discussions [here](link-to-discussions).
+- **Frontend**: HTML, CSS, JavaScript, React, Vue.js
+- **Backend**: Node.js, Python, Ruby on Rails
+- **Game Development**: Unity, Unreal Engine, Godot
+- **Databases**: MySQL, PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes, AWS, Azure
 
-If you have any questions or need further assistance, feel free to reach out to us via [email](mailto:contact@devzerstudio.com).
+## 👨‍👩‍👧‍👦 Meet the Team
+
+- **John Doe**: Co-Founder & Lead Developer
+- **Jane Smith**: Co-Founder & Creative Director
+- **Alice Johnson**: Game Developer
+- **Bob Brown**: Web Developer
+
+## 📫 Contact Us
+
+We’d love to hear from you! Here’s how you can reach us:
+
+- **Email**: [contact@devzerstudio.com](mailto:devzerstudio@gmail.com)
+- **Twitter**: [@DevzerStudio](https://twitter.com/devzerstudio)
+- **LinkedIn**: [Devzer Studio](https://www.linkedin.com/company/devzerstudio)
 
 ## 🍿 Fun Facts
 
