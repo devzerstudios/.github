@@ -1,8 +1,8 @@
-# Welcome to Devzer Studio! 👋
+# Welcome to Devzer Studios! 👋
 
 ## 🌟 About Us
 
-**Devzer Studio** is a small, dynamic team specializing in website and game development. We are passionate about crafting beautiful, functional, and engaging digital experiences. Whether it's building a sleek, user-friendly website or developing an immersive game, we bring creativity and technical expertise to every project.
+**Devzer Studios** is a small, dynamic team specializing in website and game development. We are passionate about crafting beautiful, functional, and engaging digital experiences. Whether it's building a sleek, user-friendly website or developing an immersive game, we bring creativity and technical expertise to every project.
 <!--
 ## 📈 Our Projects
 
