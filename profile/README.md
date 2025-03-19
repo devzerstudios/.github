@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,100:000000&height=200&section=header&text=Devzer%20Studios&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Turning%20visions%20into%20reality&descSize=25&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FFFFFF&height=200&section=header&text=Devzer%20Studios&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Turning%20visions%20into%20reality&descSize=25&descAlignY=55&animation=fadeIn" />
 </div>
 
 # Welcome to Devzer Studios! 👋
