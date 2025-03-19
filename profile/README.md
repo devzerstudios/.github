@@ -47,6 +47,14 @@ We’d love to hear from you! Here’s how you can reach us:
 
 Thank you for visiting Devzer Studio! We look forward to collaborating with you.
 
+<br/>
+
+---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=devzerstudios&color=2975D6" alt="watching_count" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00000,100:FFFFFF&height=120&section=footer" />
 </div>
